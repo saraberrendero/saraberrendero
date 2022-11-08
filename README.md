@@ -3,7 +3,7 @@
 <!--
 **saraberrendero/saraberrendero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Mi nombre es Sara y mi trayectoria profesional está enfocada al mundo audiovisual. Sin embargo, hace dos años, quise dar un giro a mi carrera y me enfoqué en el mundo de la informática. Decidí estudiar el grado superior de desarrollo de aplicaciones multiplataforma. Ahora que he finalizado estos estudios, tengo el deseo de poder adquirir experiencia en este campo y poder desarrollar mi carrera profesional como desarrolladora.
+Mi nombre es Sara y mi trayectoria profesional está enfocada al mundo audiovisual. Sin embargo, hace dos años, quise dar un giro a mi carrera y me enfoqué en el mundo de la informática. Decidí estudiar el grado superior de desarrollo de aplicaciones multiplataforma. Ahora que he finalizado mis estudios, tengo el deseo de poder adquirir experiencia en este campo y desarrollar mi carrera profesional como programadora.
 
 ## Tecnologías:
 
